@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "website-db-staging",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "d9d13030-6340-4558-8387-6b2834b8f616",
+			"database_name": "website-db-staging"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
